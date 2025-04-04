@@ -1,0 +1,16 @@
+class jiya
+{
+    int count = 5;
+    neha()
+    {
+        count++;
+        System.out.println(count);
+    }
+    public static void main (string [] args)
+    {
+        neha R1 = new jiya();
+        neha R2 = new jiya();
+        neha R3 = new jiya();
+        
+    }
+}
