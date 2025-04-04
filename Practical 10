@@ -1,0 +1,8 @@
+public class student {
+    final int counts = 1100;
+    public stAtic void main (string [] args)
+    {
+        student s = new student();
+        system.out.println(s.counts);
+    }
+}
