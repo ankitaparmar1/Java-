@@ -1,0 +1,20 @@
+public class rectangle 
+{
+    double height;
+    double weight;
+
+    public rectangle(double h, double w)
+
+    {
+       this.height = h;
+        this.weight = w;
+    }
+    
+        public static void main(string [] args)
+        {
+            rectangle R1 = new rectangle(6.2, 12.5);
+            System.out.println(R1.height);
+            System.out.println(R1.weight);
+        }
+    
+}
